@@ -1,0 +1,9 @@
+#1 Primeira rodada: Ligue o primeiro interruptor e deixe-o ligado por alguns minutos. Isso vai "marcar" a primeira lâmpada.
+
+#2 Segunda rodada: Desligue o primeiro interruptor e, ao mesmo tempo, ligue o segundo interruptor. Agora, você "marca" a segunda lâmpada.
+
+#3 Vá até as salas: Agora, vá até as salas onde as lâmpadas estão. Se encontrar uma lâmpada acesa, você sabe que o primeiro interruptor controla essa lâmpada.
+Se a lâmpada estiver apagada, toque nela. Se estiver quente, o segundo interruptor a controla; se estiver fria, o terceiro interruptor é o responsável.
+
+Assim, de uma maneira mais prática e intuitiva, você associa cada interruptor à sua respectiva lâmpada em apenas duas visitas às salas.
+O primeiro interruptor está ligado à lâmpada acesa, o segundo à lâmpada que estava apagada e ficou quente, e o terceiro à lâmpada que estava apagada e permaneceu fria.
